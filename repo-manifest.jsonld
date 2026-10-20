@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-tornado/commit/e4fa7d7b4c2256fa37f5ad89cbfd4d4bf6fdb606",
       "git:hexsha": "e4fa7d7b4c2256fa37f5ad89cbfd4d4bf6fdb606",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.0.0b2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.0.0b2",
+      "repolex:parsedAt": "2026-10-20T23:55:48.903362+00:00"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-tornado/commit/b8bd8ad9cb224b043bbb9fb833761252afd6e10b",
