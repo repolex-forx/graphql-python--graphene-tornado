@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-tornado/commit/e4fa7d7b4c2256fa37f5ad89cbfd4d4bf6fdb606",
       "git:hexsha": "e4fa7d7b4c2256fa37f5ad89cbfd4d4bf6fdb606",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.0.0b2"
     },
     {
